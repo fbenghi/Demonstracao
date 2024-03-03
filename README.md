@@ -1,2 +1,3 @@
 # Demonstracao
-Uma sequência de videos sobre o Github
+
+Uma ótima sequência de videos sobre o Github.
